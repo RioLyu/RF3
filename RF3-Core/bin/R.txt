@@ -1,0 +1,6 @@
+int style fill 0x7f020000
+int style fill_horizontal 0x7f020002
+int style fill_vertical 0x7f020003
+int style wrap 0x7f020001
+int style wrap_horizontal 0x7f020004
+int style wrap_vertical 0x7f020005

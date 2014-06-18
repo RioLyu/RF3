@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rf3-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/rf3-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
